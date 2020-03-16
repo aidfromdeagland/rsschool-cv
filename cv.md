@@ -7,14 +7,13 @@ https://t.me/stanislau_laniuk
 <br>
 https://www.linkedin.com/in/stanilslau-laniuk/
 
-
 I’m a beginner frontend developer. My career path has formed the solid ground for further development. It has improved my communication (including foreign customers), teamwork, analytical and management skills.
 <br>
 Throughout my life, I’m a self-starter and self-motivated. I completed three courses at htmlacademy.ru and explored tons of materials from all over the internet. I love frontend and I do my best to improve skills and knowledge in this area. As I am interested in growing my expertise, I spend my time learning by watching tutorials, reading developer’s articles, exploring documentation and coding. I keep myself updated and plugged-in.
 <br><br>
 
 #### Skills
-HTML, CSS, LESS, SASS, Responsive, BEM, Javascript, Gulp, Git
+HTML, CSS, LESS, SASS, Responsive, Semantic, BEM, Javascript, Gulp, Git
 <br><br>
 
 #### Code examples
